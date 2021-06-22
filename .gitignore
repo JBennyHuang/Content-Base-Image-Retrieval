@@ -1,2 +1,4 @@
 static/images/*.jpg
 static/features/*.npy
+.vscode/
+__pycache__/

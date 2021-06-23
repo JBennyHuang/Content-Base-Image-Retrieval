@@ -1,7 +1,7 @@
 
 # Simple Content-Based Image Retrieval (Image Search Engine)
 
-Content-based image retrieval is the process of querying by image content. In other words, it uses the relevant features encodeded in an image to search retrieve information such as other related images. This project uses the ResNet50 encoder to extract 2048 features from the query image. Then, a crude nearest neighbor search is performed to retrieve more images related to the query image.
+Content-based image retrieval is the process of querying by image content. In other words, it uses the relevant features encoded in an image to search retrieve information such as other related images. This project uses the ResNet50 encoder to extract 2048 features from the query image. Then, a crude nearest neighbor search is performed to retrieve more images related to the query image.
 
 
 ## Run Locally
